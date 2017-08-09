@@ -1,0 +1,20 @@
+C:\Development\Visual Studio\Projects\FreshDeskReporting\bin\Debug\FreshDeskReporting.exe.config
+C:\Development\Visual Studio\Projects\FreshDeskReporting\obj\Debug\FreshDeskReporting.csprojResolveAssemblyReference.cache
+C:\Development\Visual Studio\Projects\FreshDeskReporting\bin\Debug\FreshDeskReporting.exe
+C:\Development\Visual Studio\Projects\FreshDeskReporting\bin\Debug\FreshDeskReporting.pdb
+C:\Development\Visual Studio\Projects\FreshDeskReporting\obj\Debug\FreshDeskReporting.exe
+C:\Development\Visual Studio\Projects\FreshDeskReporting\obj\Debug\FreshDeskReporting.pdb
+C:\Development\Visual Studio\Projects\FreshDeskReporting\bin\Debug\Newtonsoft.Json.dll
+C:\Development\Visual Studio\Projects\FreshDeskReporting\bin\Debug\System.Json.dll
+C:\Development\Visual Studio\Projects\FreshDeskReporting\bin\Debug\Newtonsoft.Json.xml
+C:\Development\Visual Studio\Projects\FreshDeskReporting\bin\Debug\System.Json.xml
+C:\Development\Visual Studio\Repos\Confidence IT Team Project\FreshDeskReporting\bin\Debug\FreshDeskReporting.exe.config
+C:\Development\Visual Studio\Repos\Confidence IT Team Project\FreshDeskReporting\obj\Debug\FreshDeskReporting.exe
+C:\Development\Visual Studio\Repos\Confidence IT Team Project\FreshDeskReporting\obj\Debug\FreshDeskReporting.pdb
+C:\Development\Visual Studio\Repos\Confidence IT Team Project\FreshDeskReporting\bin\Debug\FreshDeskReporting.exe
+C:\Development\Visual Studio\Repos\Confidence IT Team Project\FreshDeskReporting\bin\Debug\FreshDeskReporting.pdb
+C:\Development\Visual Studio\Repos\Confidence IT Team Project\FreshDeskReporting\bin\Debug\Newtonsoft.Json.dll
+C:\Development\Visual Studio\Repos\Confidence IT Team Project\FreshDeskReporting\bin\Debug\System.Json.dll
+C:\Development\Visual Studio\Repos\Confidence IT Team Project\FreshDeskReporting\bin\Debug\Newtonsoft.Json.xml
+C:\Development\Visual Studio\Repos\Confidence IT Team Project\FreshDeskReporting\bin\Debug\System.Json.xml
+C:\Development\Visual Studio\Repos\Confidence IT Team Project\FreshDeskReporting\obj\Debug\FreshDeskReporting.csprojResolveAssemblyReference.cache
