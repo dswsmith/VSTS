@@ -1,0 +1,16 @@
+C:\Development\Visual Studio\Projects\FortressSageStockExport\obj\Debug\FortressSageExporter.exe
+C:\Development\Visual Studio\Projects\FortressSageStockExport\obj\Debug\FortressSageExporter.pdb
+C:\Development\Visual Studio\Projects\FortressSageStockExport\bin\FortressSageExporter.exe.config
+C:\Development\Visual Studio\Projects\FortressSageStockExport\bin\FortressSageExporter.exe
+C:\Development\Visual Studio\Projects\FortressSageStockExport\bin\FortressSageExporter.pdb
+C:\Development\Visual Studio\Projects\FortressSageExporter\bin\FortressSageExporter.exe.config
+C:\Development\Visual Studio\Projects\FortressSageExporter\obj\Debug\FortressSageExporter.exe
+C:\Development\Visual Studio\Projects\FortressSageExporter\obj\Debug\FortressSageExporter.pdb
+C:\Development\Visual Studio\Projects\FortressSageExporter\bin\FortressSageExporter.exe
+C:\Development\Visual Studio\Projects\FortressSageExporter\bin\FortressSageExporter.pdb
+C:\Development\Visual Studio\Projects\FortressSageExporter\obj\Debug\FortressSageExporter.csprojResolveAssemblyReference.cache
+C:\Development\Visual Studio\Repos\Confidence IT Team Project\FortressSageExporter\bin\FortressSageExporter.exe.config
+C:\Development\Visual Studio\Repos\Confidence IT Team Project\FortressSageExporter\obj\Debug\FortressSageExporter.exe
+C:\Development\Visual Studio\Repos\Confidence IT Team Project\FortressSageExporter\obj\Debug\FortressSageExporter.pdb
+C:\Development\Visual Studio\Repos\Confidence IT Team Project\FortressSageExporter\bin\FortressSageExporter.exe
+C:\Development\Visual Studio\Repos\Confidence IT Team Project\FortressSageExporter\bin\FortressSageExporter.pdb
