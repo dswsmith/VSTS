@@ -1,6 +1,0 @@
-C:\Development\Visual Studio\Projects\FortressSageStockExport\bin\Debug\FortressSageStockExport.exe.config
-C:\Development\Visual Studio\Projects\FortressSageStockExport\obj\Debug\FortressSageStockExport.csprojResolveAssemblyReference.cache
-C:\Development\Visual Studio\Projects\FortressSageStockExport\bin\Debug\FortressSageStockExport.exe
-C:\Development\Visual Studio\Projects\FortressSageStockExport\bin\Debug\FortressSageStockExport.pdb
-C:\Development\Visual Studio\Projects\FortressSageStockExport\obj\Debug\FortressSageStockExport.exe
-C:\Development\Visual Studio\Projects\FortressSageStockExport\obj\Debug\FortressSageStockExport.pdb
